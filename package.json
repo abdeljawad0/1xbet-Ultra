@@ -1,0 +1,14 @@
+{
+  "name": "1xbet-ultra",
+  "version": "1.0.0",
+  "description": "تطبيق مراهنات احترافي نسخة 5.0 مع فيديو وصوت",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Abdeljawad",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
